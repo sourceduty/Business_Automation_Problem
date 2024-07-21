@@ -1,6 +1,6 @@
 ![Business Robot](https://github.com/user-attachments/assets/f653664f-69a6-435b-9c7e-257d4a0f5667)
 
-> Employing technology to execute recurring tasks or processes in a business.
+> Problematic employment of technology to execute recurring tasks or processes in a business.
 
 #
 
