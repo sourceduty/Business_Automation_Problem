@@ -56,6 +56,8 @@ Another aspect of the business automation maintenance problem is the cost and re
 [Business Model Simulator](https://github.com/sourceduty/Business_Model_Simulator)
 <br>
 [Global Problems](https://github.com/sourceduty/Global_Problems)
+<br>
+[Chat Simulator](https://github.com/sourceduty/Chat_Simulator)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
